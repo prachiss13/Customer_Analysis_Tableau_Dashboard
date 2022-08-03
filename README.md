@@ -1,2 +1,2 @@
-# Customer Analysis Tableau Dashboard
+# Customer Data Analysis using Tableau 
 
